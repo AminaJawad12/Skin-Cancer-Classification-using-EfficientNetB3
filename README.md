@@ -52,6 +52,7 @@ Testing
 
 ---
 
+
 ## **CONCLUSION:**
 
 This project successfully builds a deep learning model for skin cancer classification using EfficientNetB3 and demonstrates good performance along with explainability using Grad-CAM.
