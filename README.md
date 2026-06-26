@@ -19,7 +19,8 @@ HAM10000 dataset is used which includes dermatoscopic images of skin lesions. Th
 
 - HAM10000_metadata.csv: Contains image IDs and labels  
 - HAM10000_images_part_1: First set of images  
-- HAM10000_images_part_2: Second set of images  
+- HAM10000_images_part_2: Second set of images
+  and link of dataset /kaggle/input/datasets/kmader/skin-cancer-mnist-ham10000
 
 ---
 
